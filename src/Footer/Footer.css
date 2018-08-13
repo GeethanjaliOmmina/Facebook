@@ -1,0 +1,19 @@
+.footer{
+    color:#3b5998;
+    margin-left: 180px;
+    margin-right: 180px;
+    font-size: 12px;
+    margin-top: 12%;
+}
+span{
+    display: inline-block;
+}
+#word-spacing{
+    word-spacing: 4px;
+}
+#left{
+    float: left;
+}
+#right{
+    float: right;
+}
